@@ -1,1 +1,1 @@
-# .github
+# Creatify s.r.o.
